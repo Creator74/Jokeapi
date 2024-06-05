@@ -1,0 +1,30 @@
+body{
+  background-color: black;
+}
+
+h1 {
+  color: lightcoral;
+  width: 300px;
+  margin: auto;
+  border: 1px solid red;
+  margin-top: 80px;
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+  left: 0;
+  right: 0;
+}
+
+.main {
+  position: relative;
+  width: 300px;
+  min-height: 60px;
+  margin: auto;
+  padding-top: 15px;
+}
+
+p{
+  color: white;
+}
